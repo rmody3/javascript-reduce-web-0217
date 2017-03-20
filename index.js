@@ -1,1 +1,1 @@
-const app = "I don't do much."
+console.log(reduce(couponLocations, couponCounter, 3)); // prints 18
